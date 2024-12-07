@@ -6,4 +6,7 @@ Section:B
 Branch:CSE
 Year of Admission:2023
 College Name:GITW
+UG Degree:computer Science Engineering
+PUC:Huda National PU College
+SSLC: Noble Saint English School
 
